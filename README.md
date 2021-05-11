@@ -5,6 +5,9 @@ The *meter* repository contains the code to read the meter's status updates. I c
 
 The *meter_receiver* repository is meant for a [Heltec Wifi Kit 32](https://heltec.org/project/wifi-kit-32/), and displays the received updates on the OLED.
 
+## TODOs
+1. Come up with a clever way to power the ESP32 and meter.
+2. Connect a battery to the WifiKit32 and attach it to my glasses as a handsfree remote meter display.
 
 Parsing code heavily based on https://github.com/4x1md/ut61e_py/blob/master/src/ut61e.py by @4x1md<br/>
 MIT License<br/>
