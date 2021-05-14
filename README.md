@@ -14,3 +14,5 @@ MIT License<br/>
 Copyright (c) 2017 Dmitry Melnichansky
 
 ESP Now code heavily based on https://github.com/SensorsIot/Encrypted-Remote-Control by @SensorsIot (Andreas Speiss), no license provided in that repository.
+
+[U8G2 Library license](https://github.com/olikraus/u8g2/blob/master/LICENSE)
